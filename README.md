@@ -1,4 +1,4 @@
-# React-Online-Game-Store
+# GAMEX: React-Online-Game-Store
 
 Gamex is a new project I just started on
 
