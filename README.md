@@ -20,7 +20,7 @@ https://github.com/AaronFourie/React-Online-Game-Store/assets/103949239/4925299a
 #Idea_1
 https://github.com/AaronFourie/React-Online-Game-Store/assets/103949239/9e96e4a6-c2e6-4001-82bd-a6232432b2c1
 
-#Idea_2
+#Current_Idea
 https://github.com/AaronFourie/React-Online-Game-Store/assets/103949239/c37eb88b-3d05-4e24-83ef-47743e53648a
 
 -------------------------------------------------------------------------------------------------------------
