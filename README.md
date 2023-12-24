@@ -22,9 +22,9 @@ https://github.com/AaronFourie/React-Online-Game-Store/assets/103949239/c37eb88b
 -------------------------------------------------------------------------------------------------------------
 Images
 ------
-Hero_1
+#Hero_1
 ![Screenshot 2023-12-15 105414](https://github.com/AaronFourie/React-Online-Game-Store/assets/103949239/de32f781-d952-4440-acb6-8c623039adbe "Hero 1")
-Hero_2
+#Hero_2
 ![Screenshot 2023-12-20 040659](https://github.com/AaronFourie/React-Online-Game-Store/assets/103949239/c06c314a-f795-4785-8043-3eb7ae5ba3d9 "Hero 2")
-Hero_3
+#Hero_3
 ![Screenshot 2023-12-20 204641](https://github.com/AaronFourie/React-Online-Game-Store/assets/103949239/7205ebfb-6b03-411e-ab62-c91a3699a49d "Hero 3")
